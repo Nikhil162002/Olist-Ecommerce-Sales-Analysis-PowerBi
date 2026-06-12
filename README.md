@@ -252,7 +252,7 @@ The following DAX measures were used to build KPIs and business metrics:
 
 ### Olist Sales Dashboard
 
-![Olist Sales Dashboard](dashboard_screenshot.png)
+![Olist Sales Dashboard](Olist_Sales_Dashboard.png)
 
 ---
 
